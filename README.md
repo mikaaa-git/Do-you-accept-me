@@ -1,9 +1,12 @@
 # Do I passed teh Interview?
 
 This is an interactive webpage where users are asked if they want accepted me as their Vtuber.
-Based code is by ivysone.
+Based code is by ivysone. 
 
 https://github.com/ivysone
+
+
+I did the script.js and the gif and adjust some code
 
 ## Features
 
